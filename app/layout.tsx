@@ -29,7 +29,7 @@ const siteName = 'Roma Dance Studio'
 const siteTitle = 'Roma Dance Studio | Scuola di danza a Roma'
 const siteDescription =
   'Roma Dance Studio e una scuola di danza a Roma con un ambiente elegante e professionale dedicato alla formazione artistica.'
-const ogImage = `${siteUrl}/stepdance/ogimagesteps.jpg`
+const ogImage = `${siteUrl}/romadancestudio/ogimageromadancestudio.jpg`
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
