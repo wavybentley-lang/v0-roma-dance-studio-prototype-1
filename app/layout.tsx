@@ -24,7 +24,7 @@ const dancingScript = Dancing_Script({
   display: 'swap',
 })
 
-const siteUrl = 'https://v0-steps-dance-school-prototype.vercel.app'
+const siteUrl = 'https://v0-roma-dance-studio-prototype-mvjm.vercel.app'
 const siteName = 'Roma Dance Studio'
 const siteTitle = 'Roma Dance Studio | Scuola di danza a Roma'
 const siteDescription =
